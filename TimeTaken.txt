@@ -1,0 +1,2 @@
+I spent approximately 3 hours making this solution and I am satisfied with its functionality. The notes I took and my design ideas are a 
+part of the comments that can be found in my main.cpp. I believe that will be the only source file necessary to compile my project.
